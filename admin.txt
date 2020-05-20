@@ -1,0 +1,8 @@
+admin
+panel
+administrator
+login
+giris
+yonetim
+yonetici
+admin/login.php
